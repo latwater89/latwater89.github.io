@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Chronologie | L'histoire de la Musique en France</title>
+		<!--Lien vers la feuille de style et le script-->
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+		<script type="text/javascript" src="script.js"></script>
+		<!--Lien vers les polices de titre, d'en-tête et de paragraphe-->
+		<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Lato:400,400i|Lustria|Titillium+Web:700" rel="stylesheet">
+		<!--Ajoute des métadonnées-->
+		<meta name="keywords" content="histoire de la musique, history of music in french">
+		<meta name="description" content="Un histoire de la musique en France">
+		<meta name="author" content="Lucas Atwater">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>	
+	<body class="Timeline">
+		<!--Crée l'en-tête-->
+		<div class="Header">
+			<div class="grid">
+				<div class="blue">blue</div>
+				<div class="white">L'Histoire de la Musique <br>en France</div>
+				<div class="red">red</div>
+			</div>
+		<!--Créer une barre de navigation-->
+		<hr>
+		<nav>
+			<ul>
+				<li><a href="L'histoire de la Musique en France.html">Accueil</a></li>
+				<li><strong>|</strong></li>
+				<li><strong>Chronologie</strong></li>
+				<li><strong>|</strong></li>
+				<li><a href="About.html">Info</a></li>
+			</ul>
+		</nav>	
+		<hr>
+		</div>
+		<div class="Content">
+			<!--Retourner en haut-->
+			<button onclick="topFunction()" id="myBtn" title="Go to top"><strong>^</strong></button>
+			<h1>Chronologie</h1>
+			<!--Crée la chronologie-->
+			<div class="timeline">
+			<!--Médiéval-->
+				<div>
+					<!--Léonin-->
+					<div class="container left">
+					<div class="content">
+						<h2>1130</h2>
+						<h3>Magister Léoninus(Léonin),</h3>
+						<p>
+						né à 1130, Paris, France. 
+						Il idenifiait en tant que le compositeur de le Magnus Liber Organi de graduali et antiphonario pro servitio divino. 
+						Consistant en les arrangements musicaux pour l'année entière de l'église, 
+						les jours de fête et les jours des Saints, avec des réponses polyphoniques à deux voix pour chaque lecture des écritures. 
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/6mYfzf5O8QY">
+						</iframe>
+					</div>
+				</div>
+					<!--Pérotin-->
+					<div class="container right">
+					<div class="content">
+						<h2>1160</h2>
+						<h3>Pérotin,</h3>
+						<p>
+						né à 1160, France. 
+						Il était cru avoir introduit la composition de la polyphonie en quatre parties dans la musique occidentale.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/J0KX_Wr_kAo">
+						</iframe>
+					</div>
+				</div>
+					<!--Adam le Bossu-->
+					<div class="container left">
+					<div class="content">
+						<h2>1245</h2>
+						<h3>Adam de la Halle(Adam le Bossu),</h3>
+						<p>
+						né à 1245, Arras, France. 
+						Il était une Trouvère, une poète épique, et un musicien qui innovait un nouveau façon de la musique. 
+						Adam a effectué les premières expériences dans la chanson laïque polyphonique. 
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/0CPsFxAZssY">
+						</iframe>
+					</div>
+				</div>
+					<!--Guillaume de Machaut-->
+					<div class="container right">
+					<div class="content">
+						<h2>1300</h2>
+						<h3>Guillaume de Machaut,</h3>
+						<p>
+						né à 1300, Machaut, France. 
+						Il était considéré comme l'un des principaux compositeurs français du style musical Ars Nova (q.v.) du 14ème siècle.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/mvIEA2dBKGA">
+						</iframe>
+					</div>
+				</div>
+				</div>
+			<!--Renaissance-->
+				<div>
+					<!--Guillaume Dufay-->
+					<div class="container left">
+					<div class="content">
+						<h2>1397</h2>
+						<h3>Guillaume Dufay,</h3>
+						<p>
+						né à 1397, Beersel, Belgique. 
+						Il était un compositeur franco-flamand noté à la fois pour sa musique d'église et ses chansons laïques. 
+						Les chansons de Dufay traitent de sujets tels que le printemps, l'amour et la mélancolie.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/6mcxEtyEUw4">
+						</iframe>
+					</div>
+				</div>
+					<!--Gilles Binchois-->
+					<div class="container right">
+					<div class="content">
+						<h2>1400</h2>
+						<h3>Gilles Binchois,</h3>
+						<p>
+						né à 1400, Mons, Belgique. 
+						Compositeur flamand de musique ecclésiastique et de chansons profanes remarquables pour leur élégance de ligne et leur douceur d'expression.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/VYrjtDickmo">
+						</iframe>
+					</div>
+				</div>
+					<!--Loÿset Compère-->
+					<div class="container left">
+					<div class="content">
+						<h2>1445</h2>
+						<h3>Loÿset Compère,</h3>
+						<p>
+						né à 1445, Belgique.
+						Il fut l'un des plus importants compositeurs de motets et de chansons de cette époque, 
+						et l'un des premiers musiciens à apporter le style léger italianisant de la Renaissance en France.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/pDY8tsYASag">
+						</iframe>
+					</div>
+				</div>
+					<!--Nicolas Gombert-->
+					<div class="container right">
+					<div class="content">
+						<h2>1495</h2>
+						<h3>Nicolas Gombert,</h3>
+						<p>
+						né à 1495, Lille, France. 
+						Il fut l'un des compositeurs les plus célèbres et les plus influents entre Josquin des Prez et Palestrina,
+						formant un lien entre les deux, 
+						et représente le mieux le style polyphonique complexe et pleinement développé de cette période dans l'histoire de la musique.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/Elk1nhV9EA4">
+						</iframe>
+					</div>
+				</div>
+				</div>
+			<!--Baroque-->
+				<div>
+					<!--Pierre Guédron-->
+					<div class="container left">
+						<div class="content">
+						<h2>1570</h2>
+						<h3>Pierre Guédron,</h3>
+						<p>
+						né à 1570, Châteaudun, France. 
+						Il fut l'un des compositeurs les plus renommés et les plus influents de la cour française du début du XVIIe siècle,
+						qui écrivit Airs de Cour.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/2CeFgw1W_eg">
+						</iframe>
+					</div>
+					</div>
+					<!--Louis Marchand-->
+					<div class="container right">
+					<div class="content">
+						<h2>1669</h2>
+						<h3>Louis Marchand,</h3>
+						<p>
+						né à 1669, Lyon, France.
+						Il était un enfant prodige et s'est rapidement imposé comme l'un des virtuoses français les plus connus de son temps. 
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/V8qQhLBSRLA">
+						</iframe>
+					</div>
+				</div>
+					<!--Jean Philippe Rameau-->
+					<div class="container left">
+					<div class="content">
+						<h2>1683</h2>
+						<h3>Jean Philippe Rameau,</h3>
+						<p>
+						né à 1683, Dijon, France.
+						Il était mieux connu aujourd'hui pour sa musique de clavecin, 
+						opéras, et travaille dans d'autres genres théâtraux mais de son vivant aussi célèbre en tant que théoricien de la musique. 
+						Il a étudié l'harmonie, ce qui l'a conduit à développer un système d'harmonie qui est à la base de la plupart des manuels d'harmonie du XXe siècle.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/NybTtlHiFbk">
+						</iframe>
+					</div>
+				</div>
+					<!--Michel Blavet-->
+					<div class="container right">
+					<div class="content">
+						<h2>1700</h2>
+						<h3>Michel Blavet,</h3>
+						<p>
+						né à 1700, Besançon, France.
+						Il a appris à jouer presque tous les instruments,
+						spécialisé dans la flûte et le basson.
+						En 1726, il rejoint le duc de Carignan et participe pour la première fois au nouveau Concert Spirituel.
+						Le 1er octobre 1728, Louis XV accorde à Blavet le privilège de publier des sonates pour flûte pendant une période de six ans,
+						mais en 1731, il est transféré au service de Louis, comte de Clermont et devient son intendant de la musique.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/Elk1nhV9EA4">
+						</iframe>
+					</div>
+				</div>
+				</div>
+			<!--Classique-->
+				<div>
+					<!--François-André Danican Philidor-->
+					<div class="container left">
+					<div class="content">
+						<h2>1726</h2>
+						<h3>François-André Danican Philidor,</h3>
+						<p>
+						né à 1726, Dreux, France.
+						Un compositeur français dont les opéras ont été couronnés de succès 
+						et largement connus a aidé à développer l'opéra comique devenu joueur d'échecs.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/63CSD3xT98I">
+						</iframe>
+					</div>
+				</div>
+					<!--André Grétry-->
+					<div class="container right">
+					<div class="content">
+						<h2>1741</h2>
+						<h3>André Grétry,</h3>
+						<p>
+						né à  1741, Liège, Belgium.
+						Il a appris la musique de son père, un violoniste,
+						et est devenu un garçon de choeur. 
+						Grétry a voyagé à Rome, où il a passé quelques années en tant qu'étudiant de Casali;
+						où, il a produit principalement de la musique sacrée. Plus tard, il est allé à Paris, 
+						où il s'est rapidement établi comme un compositeur d'opéra de quelque conséquence.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/yI1ozC500kM">
+						</iframe>
+					</div>
+				</div>
+					<!--Étienne Méhul-->
+					<div class="container left">
+					<div class="content">
+						<h2>1763</h2>
+						<h3>Étienne Méhul,</h3>
+						<p>
+						né à 1763, Givet, France. 
+						C'était un compositeur qui a influencé le développement de l'opéra français 
+						et qui était l'un des principaux compositeurs dans le style de la fin du 18e et du début du 19e siècle. 
+						Il fut aussi le premier compositeur à être qualifié de "romantique". 
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/xk0ka1hQUVo">
+						</iframe>
+					</div>
+				</div>
+					<!--Rodolphe Kreutzer-->
+					<div class="container right">
+					<div class="content">
+						<h2>1766</h2>
+						<h3>Rodolphe Kreutzer,</h3>
+						<p>
+						né à 1766, Versailles, Yvelines, France.
+						L'un des fondateurs de l'école française de violon, 
+						et l'un des principaux improvisateurs et chefs d'orchestre de son époque. 
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/TRZQpWjRC6s">
+						</iframe>
+					</div>
+				</div>
+				</div>
+			<!--Romantique-->
+				<div>
+					<!--Charles Gounod-->
+					<div class="container left">
+					<div class="content">
+						<h2>1818</h2>
+						<h3>Charles Gounod,</h3>
+						<p>
+						né à 1818, Paris, France.  
+						Mieux connu pour ses opéras Faust et Roméo et Juliette et pour son Ave Maria, 
+						Gounod a composé de la musique dans les genres majeurs,
+						mais avec plus ou moins de succès dans le domaine instrumental. 
+						Il est encore généralement considéré comme une figure majeure de la musique française du XIXe siècle dont l'influence s'étend néanmoins à Bizet, 
+						Saint-Saëns et Massenet.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/_-eRuRvNYTI">
+						</iframe>
+					</div>
+				</div>
+					<!--Camille Saint-Saëns-->
+					<div class="container right">
+						<div class="content">
+						<h2>1835</h2>
+						<h3>Camille Saint-Saëns,</h3>
+						<p>
+						né à  1835, Paris, France.
+						Il a écrit dans presque tous les genres,
+						y compris l'opéra, les symphonies, les concertos, 
+						les chansons, la musique chorale sacrée et laïque,
+						le piano solo et la musique de chambre. 
+						Il était un conservateur qui a écrit de nombreuses partitions populaires disséminées dans les différents genres:
+						le Concerto pour piano n ° 2, la Symphonie n ° 3 ("Organ"),
+						le poème symphonique Danse macabre, l'opéra Samson et Dalila,
+						et probablement le plus largement interprété travail, 
+						Le Carnaval des animaux.
+						Alors qu'il est resté un compositeur étroitement lié à la tradition et aux formes traditionnelles dans ses dernières années, 
+						il développe un style plus aride, moins coloré et, finalement, moins attrayant.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/JU_38vHzmyo">
+						</iframe>
+						</div>
+					</div>
+					<!--Georges Bizet-->
+					<div class="container left">
+					<div class="content">
+						<h2>1838<h2>
+						<h3>Georges Bizet,</h3>
+						<p>
+						né à 1838, Paris, France.
+						Connu pour l'un des opéras les plus populaires au monde, 
+						Carmen, Georges Bizet mérite également l'attention pour d'autres œuvres au charme mélodique remarquable. 
+						Beaucoup de ses œuvres ont reçu des réceptions fraîches lors de leurs premières,
+						mais sont maintenant considérées comme centrales dans le répertoire de la musique classique. Entré au Conservatoire de Paris avant l'âge de dix ans, il obtient le premier prix en solfège en six mois, un premier prix en piano en 1852, et finalement le très convoité Prix de Rome en 1857 pour sa cantate Clovis et Clotilde.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/Lw1_GXU_rAQ">
+						</iframe>
+					</div>
+					</div>
+					<!--Nicolas Gombert-->
+					<div class="container right">
+					<div class="content">
+						<h2>1495</h2>
+						<h3>Nicolas Gombert,</h3>
+						<p>
+						né à 1495, Lille, France. 
+						Il fut l'un des compositeurs les plus célèbres et les plus influents entre Josquin des Prez et Palestrina,
+						formant un lien entre les deux, 
+						et représente le mieux le style polyphonique complexe et pleinement développé de cette période dans l'histoire de la musique.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/Elk1nhV9EA4">
+						</iframe>
+					</div>
+				</div>
+				</div>
+			<!--Moderne-->
+				<div>
+					<!--Claude Debussy-->
+					<div class="container left">
+						<div class="content">
+							<h2>1902</h2>
+							<h3>Claude Debussy,</h3>
+							<p>
+							né à  1862, Saint-Germain-en-Laye, France. 
+							Il était parmi les compositeurs les plus influents de la fin du XIXe et du début du XXe siècle. 
+							Ses compositions matures, distinctives et attrayantes, combinent si bien le modernisme et la sensualité que leur beauté pure obscurcit souvent leur innovation technique. 
+							Debussy est considéré comme le fondateur et le principal représentant de l'impressionnisme musical (bien qu'il ait résisté au label), 
+							et son adoption d'échelles et de structures tonales non traditionnelles a été paradigmatique pour de nombreux compositeurs qui ont suivi.
+							</p>
+							<iframe width="320" height="220"
+							src="https://www.youtube.com/embed/lc7h0BLCBQk">
+							</iframe>
+						</div>
+					</div>
+					<!--Édith Piaf-->
+					<div class="container right">
+						<div class="content">
+							<h2>1946</h2>
+							<h3>Édith Piaf,</h3>
+							<p>
+							né à 1915, Belleville, Paris, France.
+							Largement considérée comme la chanteuse française la plus populaire, icône culturelle et star internationale,
+							Édith Piaf reste la plus grande star de la chanson française. Née d'une acrobate de rue normande et d'une chanteuse de café,
+							elle a été découverte en 1935 dans le quartier de Pigalle à Paris par le propriétaire d'une discothèque. 
+							Spécialisé dans les ballades à caractère autoréflexif, 
+							"La Vie en Rose" est considéré comme le tour de force de Piaf.
+							</p>
+							<iframe width="320" height="220"
+							src="https://www.youtube.com/embed/kFzViYkZAz4">
+							</iframe>
+						</div>
+					</div>
+					<!--Johnny Hallyday-->
+					<div class="container left">
+						<div class="content">
+							<h2>1970</h2>
+							<h3>Jean-Philippe Léo Smet(Johnny Hallyday),</h3>
+							<p>
+							né à 1943, cité Malesherbes, Paris, France.
+							Mieux connu sous son nom de scène Johnny Hallyday, était un chanteur et acteur de rock et de pop français, 
+							crédité pour avoir apporté le rock and roll en France. 
+							Avec une carrière de 57 ans, il a sorti 79 albums et vendu plus de 110 millions de disques dans le monde, 
+							principalement dans le monde francophone, faisant de lui l'un des artistes les plus vendus en France et dans le monde.
+							</p>
+							<iframe width="320" height="220"
+							src="https://www.youtube.com/embed/OUAXWjg06Bg">
+							</iframe>
+						</div>
+					</div>
+					<!--Trust-->
+					<div class="container right">
+						<div class="content">
+							<h2>1980</h2>
+							<h3>Trust,</h3>
+							<p>
+							un groupe de heavy metal français fondé en 1977 et populaire en Europe dans la première moitié des années 1980.
+							Le groupe était surtout connu pour la prouesse du guitariste Norbert "Nono" Krief,
+							pour la voix de Bernard "Bernie" Bonvoisin qui rappelle Bon Scott d'AC / DC et pour ses paroles sur des thèmes sociaux et politiques.
+							Les batteurs d'Iron Maiden, Nicko McBrain et Clive Burr, faisaient partie du line-up de Trust dans les années 1980.
+							</p>
+							<iframe width="320" height="220"
+							src="https://www.youtube.com/embed/WfD8Dnh2xho">
+							</iframe>
+							</div>
+						</div>
+					</div>
+			<!--Contemporain-->
+				<div>
+					<!--David Guetta-->
+					<div class="container left">
+					<div class="content">
+						<h2>2002</h2>
+						<h3>David Guetta,</h3>
+						<p>
+						né à 1967, Paris, France.
+						Il est un DJ français, auteur-compositeur, producteur de disques 
+						et remixeur de Paris qui a vendu plus de neuf millions d'albums 
+						et trente millions de singles dans le monde entier. 
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/E6e3R-aA2LA">
+						</iframe>
+					</div>
+				</div>
+					<!--Phoenix-->
+					<div class="container right">
+					<div class="content">
+						<h2>2009</h2>
+						<h3>Phoenix,</h3>
+						<p>
+						formé en 1997, il s'agit d'un groupe indie pop / pop rock originaire de Versaille, France.
+						Composé de Thomas Mars, Deck d'Arcy, Christian Mazzalai, et Laurent Brancowitz.
+						Ils sont surtout connus pour leurs singles "If I Ever Feel Better", "Lisztomania", et "1901".
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/4BJDNw7o6so">
+						</iframe>
+					</div>
+				</div>
+					<!--Stromae-->
+					<div class="container left">
+					<div class="content">
+						<h2>2009</h2>
+						<h3>Paul Van Haver(Stromae),</h3>
+						<p>
+						né à 1985, Etterbeek, Bruxelles, Belgique.
+						Connu sous son nom de scène Stromae, est un musicien, rappeur, chanteur 
+						et compositeur belge qui s'impose aussi bien dans le hip-hop que dans la musique électronique.
+						Stromae a attiré l'attention du public en 2009 avec sa chanson "Alors on danse", 
+						devenue numéro un dans plusieurs pays européens.
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/VHoT4N43jK8">
+						</iframe>
+					</div>
+				</div>
+					<!--Mika-->
+					<div class="container right">
+						<div class="content">
+						<h2>2011</h2>
+						<h3>Michael Holbrook Penniman, Jr.(Mika),</h3>
+						<p>
+						né à 1983, Beyrouth, Liban. 
+						Stylisé comme MIKA, est un auteur et compositeur anglais d'origine libanaise.
+						Mika a été nommé le numéro un de la percée en 2007 dans un sondage annuel de la BBC sur les critiques de musique, Sound of 2007.
+						Le 1er juillet 2011, il a sorti son premier titre français, "Elle Me Dit".
+						</p>
+						<iframe width="320" height="220"
+						src="https://www.youtube.com/embed/NiHWwKC8WjU">
+						</iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
