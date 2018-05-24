@@ -49,7 +49,7 @@
 						<h3>Magister Léoninus(Léonin),</h3>
 						<p>
 						né à 1130, Paris, France. 
-						Il idenifiait en tant que le compositeur de le Magnus Liber Organi de graduali et antiphonario pro servitio divino. 
+						Il identifiait en tant que compositeur du Magnus Liber Organi de graduali et antiphonario pro servitio divino. 
 						Consistant en les arrangements musicaux pour l'année entière de l'église, 
 						les jours de fête et les jours des Saints, avec des réponses polyphoniques à deux voix pour chaque lecture des écritures. 
 						</p>
@@ -79,7 +79,7 @@
 						<h3>Adam de la Halle(Adam le Bossu),</h3>
 						<p>
 						né à 1245, Arras, France. 
-						Il était une Trouvère, une poète épique, et un musicien qui innovait un nouveau façon de la musique. 
+						Il était une Trouvère, un poète épique, et un musicien qui innovait une nouveau façon de la musique. 
 						Adam a effectué les premières expériences dans la chanson laïque polyphonique. 
 						</p>
 						<iframe width="320" height="220"
@@ -221,7 +221,7 @@
 						né à 1700, Besançon, France.
 						Il a appris à jouer presque tous les instruments,
 						spécialisé dans la flûte et le basson.
-						En 1726, il rejoint le duc de Carignan et participe pour la première fois au nouveau Concert Spirituel.
+						En 1726, il rejoint le duc de Carignan et participe pour la première fois au nouveau concert spirituel.
 						Le 1er octobre 1728, Louis XV accorde à Blavet le privilège de publier des sonates pour flûte pendant une période de six ans,
 						mais en 1731, il est transféré au service de Louis, comte de Clermont et devient son intendant de la musique.
 						</p>
@@ -241,7 +241,7 @@
 						<p>
 						né à 1726, Dreux, France.
 						Un compositeur français dont les opéras ont été couronnés de succès 
-						et largement connus a aidé à développer l'opéra comique devenu joueur d'échecs.
+						et largement connus a aidé à développer l'opéra-comique devenu joueur d'échecs.
 						</p>
 						<iframe width="320" height="220"
 						src="https://www.youtube.com/embed/63CSD3xT98I">
@@ -259,7 +259,7 @@
 						et est devenu un garçon de choeur. 
 						Grétry a voyagé à Rome, où il a passé quelques années en tant qu'étudiant de Casali;
 						où, il a produit principalement de la musique sacrée. Plus tard, il est allé à Paris, 
-						où il s'est rapidement établi comme un compositeur d'opéra de quelque conséquence.
+						où il s'est rapidement établi comme un compositeur d'opéras de quelque conséquence.
 						</p>
 						<iframe width="320" height="220"
 						src="https://www.youtube.com/embed/yI1ozC500kM">
@@ -290,7 +290,7 @@
 						<p>
 						né à 1766, Versailles, Yvelines, France.
 						L'un des fondateurs de l'école française de violon, 
-						et l'un des principaux improvisateurs et chefs d'orchestre de son époque. 
+						et l'un des principaux improvisateurs et chefs d'orchestres de son époque. 
 						</p>
 						<iframe width="320" height="220"
 						src="https://www.youtube.com/embed/TRZQpWjRC6s">
@@ -330,7 +330,7 @@
 						les chansons, la musique chorale sacrée et laïque,
 						le piano solo et la musique de chambre. 
 						Il était un conservateur qui a écrit de nombreuses partitions populaires disséminées dans les différents genres:
-						le Concerto pour piano n ° 2, la Symphonie n ° 3 ("Organ"),
+						le Concerto pour piano n° 2, la symphonie n° 3("Organ"),
 						le poème symphonique Danse macabre, l'opéra Samson et Dalila,
 						et probablement le plus largement interprété travail, 
 						Le Carnaval des animaux.
@@ -352,7 +352,9 @@
 						Connu pour l'un des opéras les plus populaires au monde, 
 						Carmen, Georges Bizet mérite également l'attention pour d'autres œuvres au charme mélodique remarquable. 
 						Beaucoup de ses œuvres ont reçu des réceptions fraîches lors de leurs premières,
-						mais sont maintenant considérées comme centrales dans le répertoire de la musique classique. Entré au Conservatoire de Paris avant l'âge de dix ans, il obtient le premier prix en solfège en six mois, un premier prix en piano en 1852, et finalement le très convoité Prix de Rome en 1857 pour sa cantate Clovis et Clotilde.
+						mais sont maintenant considérées comme centrales dans le répertoire de la musique classique.
+						Entré au conservatoire de Paris avant l'âge de dix ans, il obtient le premier prix en solfège en six mois, un premier prix en piano en 1852, 
+						et finalement le très convoité Prix de Rome en 1857 pour sa cantate Clovis et Clotilde.
 						</p>
 						<iframe width="320" height="220"
 						src="https://www.youtube.com/embed/Lw1_GXU_rAQ">
@@ -405,7 +407,7 @@
 							Largement considérée comme la chanteuse française la plus populaire, icône culturelle et star internationale,
 							Édith Piaf reste la plus grande star de la chanson française. Née d'une acrobate de rue normande et d'une chanteuse de café,
 							elle a été découverte en 1935 dans le quartier de Pigalle à Paris par le propriétaire d'une discothèque. 
-							Spécialisé dans les ballades à caractère autoréflexif, 
+							Spécialisée dans les ballades à caractère autoréflexif, 
 							"La Vie en Rose" est considéré comme le tour de force de Piaf.
 							</p>
 							<iframe width="320" height="220"
@@ -436,7 +438,7 @@
 							<h2>1980</h2>
 							<h3>Trust,</h3>
 							<p>
-							un groupe de heavy metal français fondé en 1977 et populaire en Europe dans la première moitié des années 1980.
+							un groupe de hard metal français fondé en 1977 et populaire en Europe dans la première moitié des années 1980.
 							Le groupe était surtout connu pour la prouesse du guitariste Norbert "Nono" Krief,
 							pour la voix de Bernard "Bernie" Bonvoisin qui rappelle Bon Scott d'AC / DC et pour ses paroles sur des thèmes sociaux et politiques.
 							Les batteurs d'Iron Maiden, Nicko McBrain et Clive Burr, faisaient partie du line-up de Trust dans les années 1980.
@@ -471,8 +473,8 @@
 						<h2>2009</h2>
 						<h3>Phoenix,</h3>
 						<p>
-						formé en 1997, il s'agit d'un groupe indie pop / pop rock originaire de Versaille, France.
-						Composé de Thomas Mars, Deck d'Arcy, Christian Mazzalai, et Laurent Brancowitz.
+						formé en 1997, il s'agit d'un groupe indie-pop / pop rock originaire de Versailles, France.
+						Composé de Thomas Mars, Deck d'Arsy, Christian Mazzalai, et Laurent Brancowitz.
 						Ils sont surtout connus pour leurs singles "If I Ever Feel Better", "Lisztomania", et "1901".
 						</p>
 						<iframe width="320" height="220"

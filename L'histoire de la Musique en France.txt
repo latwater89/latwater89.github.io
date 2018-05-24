@@ -50,7 +50,7 @@
 			<h2>Renaissance(1400-1600)</h2>
 			<p>
 			Le déménagement du centre de l'activité musicale de Paris en Bourgogne définit le début de la Renaissance musicale en France. 
-			Les compositeurs qui ont travaillé aux cours des ducs de Bourgogne sont connus collectivement comme l'école bourguignonne;
+			Les compositeurs qui ont travaillé au cours des ducs de Bourgogne sont connus collectivement comme l'école bourguignonne;
 			notamment Guillaume Dufay et Gilles Binchois.
 			</p>
 			<!--Ère baroque-->
@@ -58,7 +58,7 @@
 			<p>
 			Avec l'arrivée du calvinisme, la musique était relativement simple. 
 			Dans les zones strictement calvinistes, 
-			la seule expression musicale autorisée était le chant des traductions françaises des Psaumes.
+			la seule expression musicale autorisée était le chant des traductions françaises des psaumes.
 			De 1570 à 1650, une sorte de musique populaire profane appelée air de cour s'est répandue dans toute la France. 
 			Aussi il y avait une floraison de musique de clavecin.
 			</p>
@@ -67,7 +67,7 @@
 			<p>
 			Avec le déclin du contrôle de la musique française à l'époque baroque, 
 			influence musicale est allé en Autriche et en Allemagne. 
-			Cependant, France y avait un petit influence.
+			Cependant, France y avait une petite influence.
 			</p>
 			<!--Ère romantique-->
 			<h2>Romantique(1820-1910)</h2>
@@ -89,8 +89,8 @@
 			<h2>Contemporain(2000-le présent)</h2>
 			<p>
 			Alors que les compositeurs classiques continuent d'expérimenter de nouveaux sons,
-			il y a eu un boom de nouvelles musiques grâce à la technologie. 
-			Des DJs aux groupes de rock, le style musical change constamment.
+			il y a eu un boom de nouvelles musiques grâce à la technique. 
+			Des DJ aux groupes de rock, le style musical change constamment.
 			</p>
 		</div>
 	</body>
